@@ -2,8 +2,7 @@
 
 # Ignite Desafio 02 trilha node.js
 
-
-
+<p align="center">
 <img src="https://img.shields.io/github/license/BrunoSSantana/desafio02-trilha-node.js" />
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BrunoSSantana/desafio02-trilha-node.js">
@@ -11,6 +10,8 @@
 
 
 <img src="https://img.shields.io/static/v1?label=yarn&message=v1.22.10&color=blue&?style=flat&logo=yarn">
+</p>
+
 
 ---
 <p align="center">
