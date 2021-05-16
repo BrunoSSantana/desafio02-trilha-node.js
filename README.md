@@ -39,8 +39,6 @@ Adicionar regra de negócio para implementar planos de usuário free e pro no de
 - [x] PUT/todos/:id
 - [x] PATCH/todos/:id/done
 - [x] DELETE/todos/:id
-
-### Testes
  
 <h2 id="como_executar">:computer: Como Executar</h2>
 
